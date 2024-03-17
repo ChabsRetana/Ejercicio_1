@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "945820173802",
+    "project_id": "turnosbd-202f4",
+    "storage_bucket": "turnosbd-202f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945820173802:android:d4406edc1bf2be64871e93",
+        "android_client_info": {
+          "package_name": "org.mx.setse.turnos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcmmSk0Xu0IDl3kak2swqUsYVGtOt3dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945820173802:android:11500471b45283c7871e93",
+        "android_client_info": {
+          "package_name": "org.mx.setse.turnossetse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcmmSk0Xu0IDl3kak2swqUsYVGtOt3dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945820173802:android:a6738a58b247dcd7871e93",
+        "android_client_info": {
+          "package_name": "org.setse.listplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRcmmSk0Xu0IDl3kak2swqUsYVGtOt3dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
